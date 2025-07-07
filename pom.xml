@@ -11,6 +11,8 @@
   <url>http://maven.apache.org</url>
   <modules>
     <module>array</module>
+    <module>leetcode</module>
+    <module>08heap</module>
   </modules>
 
   <properties>

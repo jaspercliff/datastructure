@@ -3,6 +3,13 @@ package com.jasper;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @author jasper
+ * 这是一个经典的回溯算法问题，用于生成给定数组的所有排列组合。
+ * 在这个例子中，我们定义了一个名为 `Permutations` 的类，并在其中实现了一个静态方法 `permute`，
+ * 该方法接收一个整数数组 `nums` 作为参数，并返回一个包含所有可能排列的列表。
+ * 具体实现通过递归调用 `backtrack` 方法来完成，该方法负责构建每个排列并在满足条件时将其添加到
+ */
 public class Permutations {
 
     public static void main(String[] args) {
