@@ -25,6 +25,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/jg/qrh6k2h91sb2r97vjng4qvr40000gn/T/leetcode/editor/cn/[1353]最多可以参加的会议数目.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/jg/qrh6k2h91sb2r97vjng4qvr40000gn/T/leetcode/editor/cn/doc/content/[1353]最多可以参加的会议数目.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1353" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/jg/qrh6k2h91sb2r97vjng4qvr40000gn/T/leetcode/editor/cn/[1353]最多可以参加的会议数目.java" />
+              <option name="titleSlug" value="maximum-number-of-events-that-can-be-attended" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/jg/qrh6k2h91sb2r97vjng4qvr40000gn/T/leetcode/editor/cn/[1751]最多可以参加的会议数目 II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/jg/qrh6k2h91sb2r97vjng4qvr40000gn/T/leetcode/editor/cn/doc/content/[1751]最多可以参加的会议数目 II.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1751" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/jg/qrh6k2h91sb2r97vjng4qvr40000gn/T/leetcode/editor/cn/[1751]最多可以参加的会议数目 II.java" />
+              <option name="titleSlug" value="maximum-number-of-events-that-can-be-attended-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
